@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -56,8 +56,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['919645640238'] //ur owner number
 global.ownername = "ABHIJITH C" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: A C SHOT GAMING YT" //ur yt chanel name
+global.socialm = "GitHub: Silvester" //ur github or insta name
 global.location = "India, Kerala, Kasaragod" //ur location
 
 //bot bomdy 
@@ -69,7 +69,7 @@ global.websitex = "https://youtube.com/channel/UCZf-ISzhm2sdnGj2eVVGgag" //ur we
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "ī.am      ❤️҉️       ᴀʙʜɪ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "ī.am      ❤️҉️       ᴀʙʜɪ" //ur sticker watermark packname
 global.author = "ī.am      ❤️҉️       ᴀʙʜɪ" //ur sticker watermark author
 
 //Bot theme media
